@@ -1,6 +1,6 @@
 % rebase('layout.tpl', title=title, year=year)
 
-<h2>{{ title }}.</h2>
+<h2 class="text-center" style="color: maroon"> <strong>{{ title }} </strong></h2>
 <h3>{{ message }}</h3>
 
 <address>

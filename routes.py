@@ -6,7 +6,6 @@ from bottle import route, view
 from datetime import datetime
 
 @route('/')
-@route('/home')
 @view('index')
 def home():
     """Renders the home page."""
@@ -24,12 +23,23 @@ def contact():
         year=datetime.now().year
     )
 
-@route('/about')
-@view('about')
-def about():
+@route('/timetable')
+@view('timetable')
+def timetable():
     """Renders the about page."""
     return dict(
-        title='About',
+        title='Timetable',
+        message='Your application description page.',
+        year=datetime.now().year
+    )
+
+
+@route('/cards')
+@view('cards')
+def cards():
+    """Renders the about page."""
+    return dict(
+        title='Cards',
         message='Your application description page.',
         year=datetime.now().year
     )
