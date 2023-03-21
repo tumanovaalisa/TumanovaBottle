@@ -8,7 +8,8 @@
 </div>
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4"  
+   >
         <h2>Getting started</h2>
         <p>
             Bottle gives you a powerful, patterns-based way to build dynamic websites that

@@ -23,13 +23,12 @@
                 </button>
                 
 		        <a href="/" class="navbar-brand bold1" style="color: #cc0000">
-                
                  Dance studio AK </a>
 		      
                 
             </div>
             <div class="navbar-collapse collapse justify-content-end mr-auto">
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-right sizeF">
                     <li><a href="/timetable"  style="color: #cc0000 ">Timetable</a></li>
                     <li><a href="/cards" style="color: #cc0000">Cards</a></li>
                     <li><a href="/contact" style="color: #cc0000">Contacts</a></li>
@@ -42,7 +41,7 @@
         {{!base}}
         <hr />
         <footer>
-            <p>&copy; {{ year }} - My Bottle Application</p>
+            <p>&copy; {{ year }} - DanceStudio AK</p>
         </footer>
     </div>
 
