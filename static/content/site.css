@@ -40,3 +40,10 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.bold1 {
+    font-weight: bolder;
+}

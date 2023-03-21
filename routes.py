@@ -39,7 +39,7 @@ def timetable():
 def cards():
     """Renders the about page."""
     return dict(
-        title='Cards',
+        title='Абонементы',
         message='Your application description page.',
         year=datetime.now().year
     )
