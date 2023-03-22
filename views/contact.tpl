@@ -5,16 +5,39 @@
 {{ title }} 
 </h2>
 </div>
-<h3>{{ message }}</h3>
+
+<div class="row grey">
+    <div style="height:100px; max-height:300px">
+        <h4 style="color:#000000">{{hello}}</h4>
+    </div>
+</div>
+
+<div class="row">
+    <div style="height:100px; max-height:300px">
+        <h2 style="color:#cc0000; text-align:center">{{cc}}</h2>
+    </div>
+</div>
+
+<div class="row" >
+
+        <div class="col-lg-4 text-center">
+            <a href="http://vk.com/bigtumka"><img src="/static/images/waicon.png" alt="img"></img></a>
+        </div>
+        <div class="col-lg-4 text-center">
+            <a href="http://vk.com/jesusksu"><img src="/static/images/vkicon.png" alt="img"></img></a>
+        </div>
+        <div class="col-lg-4 text-center">
+            <a href="http://vk.com/jesusksu"><img src="/static/images/igicon.png" alt="img" ></img></a>
+        </div>
+</div>
 
 <address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
+    <strong>{{c1}}</strong> <a href="mailto:allisatumanova@gmail.com">allisatumanova@gmail.com</a><br />
+    <strong>{{c2}}</strong> <a href="mailto:kseniiagrafova@icloud.com">kseniiagrafova@icloud.com</a>
 </address>
 
-<address>
-    <strong>Head of the rental departament:</strong>   <a href="mailto:allisatumanova@gmail.com">allisatumanova@gmail.com</a><br />
-    <strong>Adminstrator:</strong> <a href="mailto:kseniiagrafova@icloud.com">kseniiagrafova@icloud.com</a>
-</address>
+<div class="row">
+    <div style="height:100px; max-height:300px">
+        <h4 style="color:#000000; font-size: 20px">{{adr}}</h4>
+    </div>
+</div>
