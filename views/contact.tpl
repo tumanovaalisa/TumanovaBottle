@@ -1,6 +1,10 @@
 % rebase('layout.tpl', title=title, year=year)
 
-<h2 class="text-center" style="color: maroon"> <strong>{{ title }} </strong></h2>
+<div style="display: flex; align-items: end; justify-content: center; color: #cc0000">
+<h2 class="bold1">
+{{ title }} 
+</h2>
+</div>
 <h3>{{ message }}</h3>
 
 <address>
@@ -11,6 +15,6 @@
 </address>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <strong>Head of the rental departament:</strong>   <a href="mailto:allisatumanova@gmail.com">allisatumanova@gmail.com</a><br />
+    <strong>Adminstrator:</strong> <a href="mailto:kseniiagrafova@icloud.com">kseniiagrafova@icloud.com</a>
 </address>
