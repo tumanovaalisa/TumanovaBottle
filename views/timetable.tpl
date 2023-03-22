@@ -7,21 +7,21 @@
 </div>
 
 <div style="font-size: 21px;font-family: 'Raleway',Arial,sans-serif;">
-    <p><strong>20 направлений для развития:</strong> <span class="text-muted">High Heels, Latina solo, Strip, Twerk, Jazz-Funk, Dancehall, Reggaeton, Dancemix, Hip-Hop, House, Waving, Popping, Vogue, Shuffle, Afro, Waacking, Contemporary, Авторская хореография</span></p>
-    <p class="text-muted">+ растяжка, классика и танцевальные акробатические элементы</p>
+    <p><strong>20 РЅР°РїСЂР°РІР»РµРЅРёР№ РґР»СЏ СЂР°Р·РІРёС‚РёСЏ:</strong> <span class="text-muted">High Heels, Latina solo, Strip, Twerk, Jazz-Funk, Dancehall, Reggaeton, Dancemix, Hip-Hop, House, Waving, Popping, Vogue, Shuffle, Afro, Waacking, Contemporary, РђРІС‚РѕСЂСЃРєР°СЏ С…РѕСЂРµРѕРіСЂР°С„РёСЏ</span></p>
+    <p class="text-muted">+ СЂР°СЃС‚СЏР¶РєР°, РєР»Р°СЃСЃРёРєР° Рё С‚Р°РЅС†РµРІР°Р»СЊРЅС‹Рµ Р°РєСЂРѕР±Р°С‚РёС‡РµСЃРєРёРµ СЌР»РµРјРµРЅС‚С‹</p>
 </div>
 
 <div class="accordion mt-4" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Как записаться на пробные занятия?
+        РљР°Рє Р·Р°РїРёСЃР°С‚СЊСЃСЏ РЅР° РїСЂРѕР±РЅС‹Рµ Р·Р°РЅСЏС‚РёСЏ?
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <div>У нас есть <strong>безлимитный пробный день или целая неделя</strong>, чтобы вы могли попробовать хоть все направления за большой период.<br>
-        <br>Для записи выберите интересные вам занятия и укажите в форме контактные данные. <br>
+        <div>РЈ РЅР°СЃ РµСЃС‚СЊ <strong>Р±РµР·Р»РёРјРёС‚РЅС‹Р№ РїСЂРѕР±РЅС‹Р№ РґРµРЅСЊ РёР»Рё С†РµР»Р°СЏ РЅРµРґРµР»СЏ</strong>, С‡С‚РѕР±С‹ РІС‹ РјРѕРіР»Рё РїРѕРїСЂРѕР±РѕРІР°С‚СЊ С…РѕС‚СЊ РІСЃРµ РЅР°РїСЂР°РІР»РµРЅРёСЏ Р·Р° Р±РѕР»СЊС€РѕР№ РїРµСЂРёРѕРґ.<br>
+        <br>Р”Р»СЏ Р·Р°РїРёСЃРё РІС‹Р±РµСЂРёС‚Рµ РёРЅС‚РµСЂРµСЃРЅС‹Рµ РІР°Рј Р·Р°РЅСЏС‚РёСЏ Рё СѓРєР°Р¶РёС‚Рµ РІ С„РѕСЂРјРµ РєРѕРЅС‚Р°РєС‚РЅС‹Рµ РґР°РЅРЅС‹Рµ. <br>
         </div>
       </div>
     </div>
@@ -30,20 +30,20 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-        Нужна ли предварительная запись на занятия, если уже есть абонемент?
+        РќСѓР¶РЅР° Р»Рё РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅР°СЏ Р·Р°РїРёСЃСЊ РЅР° Р·Р°РЅСЏС‚РёСЏ, РµСЃР»Рё СѓР¶Рµ РµСЃС‚СЊ Р°Р±РѕРЅРµРјРµРЅС‚?
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <div>Записываться на занятие нужно, <strong>если есть специальный стикер "запись обязательна".</strong><br><br>
+        <div>Р—Р°РїРёСЃС‹РІР°С‚СЊСЃСЏ РЅР° Р·Р°РЅСЏС‚РёРµ РЅСѓР¶РЅРѕ, <strong>РµСЃР»Рё РµСЃС‚СЊ СЃРїРµС†РёР°Р»СЊРЅС‹Р№ СЃС‚РёРєРµСЂ "Р·Р°РїРёСЃСЊ РѕР±СЏР·Р°С‚РµР»СЊРЅР°".</strong><br><br>
         <ul>
-            <li>Это можно сделать не раньше чем за 14 дней до занятия.</li>
-            <li>Если вы записались и не отменили запись за 4 часа до занятия, то оно сгорает в вашем абонементе.</li>
-            <li>Если вы записались, но не сможете прийти, то отмените свою запись в личном кабинете, чтобы освободить место для других.</li>
+            <li>Р­С‚Рѕ РјРѕР¶РЅРѕ СЃРґРµР»Р°С‚СЊ РЅРµ СЂР°РЅСЊС€Рµ С‡РµРј Р·Р° 14 РґРЅРµР№ РґРѕ Р·Р°РЅСЏС‚РёСЏ.</li>
+            <li>Р•СЃР»Рё РІС‹ Р·Р°РїРёСЃР°Р»РёСЃСЊ Рё РЅРµ РѕС‚РјРµРЅРёР»Рё Р·Р°РїРёСЃСЊ Р·Р° 4 С‡Р°СЃР° РґРѕ Р·Р°РЅСЏС‚РёСЏ, С‚Рѕ РѕРЅРѕ СЃРіРѕСЂР°РµС‚ РІ РІР°С€РµРј Р°Р±РѕРЅРµРјРµРЅС‚Рµ.</li>
+            <li>Р•СЃР»Рё РІС‹ Р·Р°РїРёСЃР°Р»РёСЃСЊ, РЅРѕ РЅРµ СЃРјРѕР¶РµС‚Рµ РїСЂРёР№С‚Рё, С‚Рѕ РѕС‚РјРµРЅРёС‚Рµ СЃРІРѕСЋ Р·Р°РїРёСЃСЊ РІ Р»РёС‡РЅРѕРј РєР°Р±РёРЅРµС‚Рµ, С‡С‚РѕР±С‹ РѕСЃРІРѕР±РѕРґРёС‚СЊ РјРµСЃС‚Рѕ РґР»СЏ РґСЂСѓРіРёС….</li>
         </ul>
-        <br>Перед самим занятием нужно также отметиться на планшете или у администратора.<br>
-        <br><strong>Что делать, если места на занятие закончились?</strong>
-        <br>Вы можете записаться в лист ожидания. Если место освободится, вам придет оповещение. <br>
+        <br>РџРµСЂРµРґ СЃР°РјРёРј Р·Р°РЅСЏС‚РёРµРј РЅСѓР¶РЅРѕ С‚Р°РєР¶Рµ РѕС‚РјРµС‚РёС‚СЊСЃСЏ РЅР° РїР»Р°РЅС€РµС‚Рµ РёР»Рё Сѓ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР°.<br>
+        <br><strong>Р§С‚Рѕ РґРµР»Р°С‚СЊ, РµСЃР»Рё РјРµСЃС‚Р° РЅР° Р·Р°РЅСЏС‚РёРµ Р·Р°РєРѕРЅС‡РёР»РёСЃСЊ?</strong>
+        <br>Р’С‹ РјРѕР¶РµС‚Рµ Р·Р°РїРёСЃР°С‚СЊСЃСЏ РІ Р»РёСЃС‚ РѕР¶РёРґР°РЅРёСЏ. Р•СЃР»Рё РјРµСЃС‚Рѕ РѕСЃРІРѕР±РѕРґРёС‚СЃСЏ, РІР°Рј РїСЂРёРґРµС‚ РѕРїРѕРІРµС‰РµРЅРёРµ. <br>
         </div>
       </div>
     </div>
@@ -52,18 +52,18 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        Какие уровни групп есть?
+        РљР°РєРёРµ СѓСЂРѕРІРЅРё РіСЂСѓРїРї РµСЃС‚СЊ?
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <div>
-            <span style="font-weight: 600;">Начинающий уровень</span>
-            <br>Раньше не танцевали (с нуля), танцевали самую малость или новички в конкретном стиле.<br><br>
-            <span style="font-weight: 600;">Общий уровень</span>
-            <br>Есть танцевальная база/опыт, чувствуете себя в танцах комфортно и готовы усваивать информацию в среднем темпе.<br>
-            <br><span style="font-weight: 600;">Продолжающий уровень</span>
-            <br>Уже давно танцуете, уверенно чувствуете себя в стиле, хотите развиваться и готовы усваивать материал в быстром темпе.<br>
+            <span style="font-weight: 600;">РќР°С‡РёРЅР°СЋС‰РёР№ СѓСЂРѕРІРµРЅСЊ</span>
+            <br>Р Р°РЅСЊС€Рµ РЅРµ С‚Р°РЅС†РµРІР°Р»Рё (СЃ РЅСѓР»СЏ), С‚Р°РЅС†РµРІР°Р»Рё СЃР°РјСѓСЋ РјР°Р»РѕСЃС‚СЊ РёР»Рё РЅРѕРІРёС‡РєРё РІ РєРѕРЅРєСЂРµС‚РЅРѕРј СЃС‚РёР»Рµ.<br><br>
+            <span style="font-weight: 600;">РћР±С‰РёР№ СѓСЂРѕРІРµРЅСЊ</span>
+            <br>Р•СЃС‚СЊ С‚Р°РЅС†РµРІР°Р»СЊРЅР°СЏ Р±Р°Р·Р°/РѕРїС‹С‚, С‡СѓРІСЃС‚РІСѓРµС‚Рµ СЃРµР±СЏ РІ С‚Р°РЅС†Р°С… РєРѕРјС„РѕСЂС‚РЅРѕ Рё РіРѕС‚РѕРІС‹ СѓСЃРІР°РёРІР°С‚СЊ РёРЅС„РѕСЂРјР°С†РёСЋ РІ СЃСЂРµРґРЅРµРј С‚РµРјРїРµ.<br>
+            <br><span style="font-weight: 600;">РџСЂРѕРґРѕР»Р¶Р°СЋС‰РёР№ СѓСЂРѕРІРµРЅСЊ</span>
+            <br>РЈР¶Рµ РґР°РІРЅРѕ С‚Р°РЅС†СѓРµС‚Рµ, СѓРІРµСЂРµРЅРЅРѕ С‡СѓРІСЃС‚РІСѓРµС‚Рµ СЃРµР±СЏ РІ СЃС‚РёР»Рµ, С…РѕС‚РёС‚Рµ СЂР°Р·РІРёРІР°С‚СЊСЃСЏ Рё РіРѕС‚РѕРІС‹ СѓСЃРІР°РёРІР°С‚СЊ РјР°С‚РµСЂРёР°Р» РІ Р±С‹СЃС‚СЂРѕРј С‚РµРјРїРµ.<br>
         </div>
       </div>
     </div>
@@ -72,14 +72,14 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFour">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-        Что такое OPEN DAY?
+        Р§С‚Рѕ С‚Р°РєРѕРµ OPEN DAY?
       </button>
     </h2>
     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <div>Это <strong>специальный день с открытыми уроками</strong> для всех желающих: наших учеников и новичков, кто ещё у нас не был.<br>
-        На Open Day можно познакомиться с новыми педагогами, попробовать уроки в открытых для набора группах и просто классно провести время!<br>
-        <br>Open Day оплачивается отдельно от абонемента: 200 рублей за один урок или 600 / 700 рублей за все.</div>
+        <div>Р­С‚Рѕ <strong>СЃРїРµС†РёР°Р»СЊРЅС‹Р№ РґРµРЅСЊ СЃ РѕС‚РєСЂС‹С‚С‹РјРё СѓСЂРѕРєР°РјРё</strong> РґР»СЏ РІСЃРµС… Р¶РµР»Р°СЋС‰РёС…: РЅР°С€РёС… СѓС‡РµРЅРёРєРѕРІ Рё РЅРѕРІРёС‡РєРѕРІ, РєС‚Рѕ РµС‰С‘ Сѓ РЅР°СЃ РЅРµ Р±С‹Р».<br>
+        РќР° Open Day РјРѕР¶РЅРѕ РїРѕР·РЅР°РєРѕРјРёС‚СЊСЃСЏ СЃ РЅРѕРІС‹РјРё РїРµРґР°РіРѕРіР°РјРё, РїРѕРїСЂРѕР±РѕРІР°С‚СЊ СѓСЂРѕРєРё РІ РѕС‚РєСЂС‹С‚С‹С… РґР»СЏ РЅР°Р±РѕСЂР° РіСЂСѓРїРїР°С… Рё РїСЂРѕСЃС‚Рѕ РєР»Р°СЃСЃРЅРѕ РїСЂРѕРІРµСЃС‚Рё РІСЂРµРјСЏ!<br>
+        <br>Open Day РѕРїР»Р°С‡РёРІР°РµС‚СЃСЏ РѕС‚РґРµР»СЊРЅРѕ РѕС‚ Р°Р±РѕРЅРµРјРµРЅС‚Р°: 200 СЂСѓР±Р»РµР№ Р·Р° РѕРґРёРЅ СѓСЂРѕРє РёР»Рё 600 / 700 СЂСѓР±Р»РµР№ Р·Р° РІСЃРµ.</div>
       </div>
     </div>
   </div>
@@ -89,32 +89,32 @@
     <div class="col-md-3 d-flex">
         <div class="bg-secondary rounded-3" style="width: 10px"></div>
         <div class="ms-4">
-            <strong>Закрытые занятия</strong>
-            <p>Закрытые группы, творческие команды, мероприятия: курсы, интенсивы, туториалы, мастер-классы</p>
+            <strong>Р—Р°РєСЂС‹С‚С‹Рµ Р·Р°РЅСЏС‚РёСЏ</strong>
+            <p>Р—Р°РєСЂС‹С‚С‹Рµ РіСЂСѓРїРїС‹, С‚РІРѕСЂС‡РµСЃРєРёРµ РєРѕРјР°РЅРґС‹, РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: РєСѓСЂСЃС‹, РёРЅС‚РµРЅСЃРёРІС‹, С‚СѓС‚РѕСЂРёР°Р»С‹, РјР°СЃС‚РµСЂ-РєР»Р°СЃСЃС‹</p>
         </div>
     </div>
 
     <div class="col-md-3 d-flex">
         <div class="bg-warning rounded-3" style="width: 10px"></div>
         <div class="ms-4">
-            <strong>Открытые уроки OPEN DAY</strong>
-            <p>Специальные дни для знакомства с новыми педагогами и группами</p>
+            <strong>РћС‚РєСЂС‹С‚С‹Рµ СѓСЂРѕРєРё OPEN DAY</strong>
+            <p>РЎРїРµС†РёР°Р»СЊРЅС‹Рµ РґРЅРё РґР»СЏ Р·РЅР°РєРѕРјСЃС‚РІР° СЃ РЅРѕРІС‹РјРё РїРµРґР°РіРѕРіР°РјРё Рё РіСЂСѓРїРїР°РјРё</p>
         </div>
     </div>
 
     <div class="col-md-3 d-flex">
         <div class="bg-warning-subtle rounded-3" style="width: 10px"></div>
         <div class="ms-4">
-            <strong>Детские группы S17 kids</strong>
-            <p>Hip-Hop, Contemporary для детей от 3 до 13 лет</p>
+            <strong>Р”РµС‚СЃРєРёРµ РіСЂСѓРїРїС‹ S17 kids</strong>
+            <p>Hip-Hop, Contemporary РґР»СЏ РґРµС‚РµР№ РѕС‚ 3 РґРѕ 13 Р»РµС‚</p>
         </div>
     </div>
 
     <div class="col-md-3 d-flex">
         <div class="bg-success rounded-3" style="width: 10px"></div>
         <div class="ms-4">
-            <strong>Подростковые группы S17 teens</strong>
-            <p>Hip-Hop, Dancemix, Contemporary для тинейджеров от 12 до 17 лет</p>
+            <strong>РџРѕРґСЂРѕСЃС‚РєРѕРІС‹Рµ РіСЂСѓРїРїС‹ S17 teens</strong>
+            <p>Hip-Hop, Dancemix, Contemporary РґР»СЏ С‚РёРЅРµР№РґР¶РµСЂРѕРІ РѕС‚ 12 РґРѕ 17 Р»РµС‚</p>
         </div>
     </div>
 </div>
@@ -124,9 +124,9 @@
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Stretching Wake-up</h5>
-            <h6 class="card-subtitle mb-2 text-muted">Вторник, 21 марта, 11:00-12:00</h6>
-            <p class="card-text">1 зал. Свободно 14 мест. Настя Жданова</p>
-            <a href="#" class="card-link">Записаться</a>
+            <h6 class="card-subtitle mb-2 text-muted">Р’С‚РѕСЂРЅРёРє, 21 РјР°СЂС‚Р°, 11:00-12:00</h6>
+            <p class="card-text">1 Р·Р°Р». РЎРІРѕР±РѕРґРЅРѕ 14 РјРµСЃС‚. РќР°СЃС‚СЏ Р–РґР°РЅРѕРІР°</p>
+            <a href="#" class="card-link">Р—Р°РїРёСЃР°С‚СЊСЃСЏ</a>
           </div>
         </div>
     </div>
@@ -134,10 +134,10 @@
    <div class="col-md-4">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Классика</h5>
-        <h6 class="card-subtitle mb-2 text-muted">Среда, 22 марта. 11:00-12:30</h6>
-        <p class="card-text">6 зал. Свободно 10 мест. Игорь Шалаев</p>
-        <a href="#" class="card-link">Записаться</a>
+        <h5 class="card-title">РљР»Р°СЃСЃРёРєР°</h5>
+        <h6 class="card-subtitle mb-2 text-muted">РЎСЂРµРґР°, 22 РјР°СЂС‚Р°. 11:00-12:30</h6>
+        <p class="card-text">6 Р·Р°Р». РЎРІРѕР±РѕРґРЅРѕ 10 РјРµСЃС‚. РРіРѕСЂСЊ РЁР°Р»Р°РµРІ</p>
+        <a href="#" class="card-link">Р—Р°РїРёСЃР°С‚СЊСЃСЏ</a>
       </div>
     </div>
     </div>
@@ -145,10 +145,10 @@
    <div class="col-md-4">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">S17kids Hip-Hop 3-6 лет</h5>
-        <h6 class="card-subtitle mb-2 text-muted">Суббота, 25 марта. 11:00-12:00</h6>
-        <p class="card-text">2 зал. Катя Пономарёва</p>
-        <a href="#" class="card-link">Записаться</a>
+        <h5 class="card-title">S17kids Hip-Hop 3-6 Р»РµС‚</h5>
+        <h6 class="card-subtitle mb-2 text-muted">РЎСѓР±Р±РѕС‚Р°, 25 РјР°СЂС‚Р°. 11:00-12:00</h6>
+        <p class="card-text">2 Р·Р°Р». РљР°С‚СЏ РџРѕРЅРѕРјР°СЂС‘РІР°</p>
+        <a href="#" class="card-link">Р—Р°РїРёСЃР°С‚СЊСЃСЏ</a>
       </div>
     </div>
     </div>

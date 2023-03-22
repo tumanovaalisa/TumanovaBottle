@@ -41,6 +41,7 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.patch" />
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.min.css" />
     <Content Include="static\content\site.css" />
@@ -50,7 +51,6 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="static\images\cards_page_img.jpg" />
     <Content Include="static\images\logo_danceAK.png" />
-    <Content Include="static\images\logo_nav.png" />
     <Content Include="static\scripts\bootstrap.min.js" />
     <Content Include="static\scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="static\scripts\jquery-1.10.2.js" />
