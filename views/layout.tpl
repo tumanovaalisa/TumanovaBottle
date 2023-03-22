@@ -21,9 +21,9 @@
             </button>
             <div class="navbar-collapse collapse justify-content-end mr-auto">
                 <ul class="navbar-nav navbar-right">
-                    <li><a href="/timetable" class="nav-link" style="color: #cc0000 ">Timetable</a></li>
-                    <li><a href="/cards" class="nav-link" style="color: #cc0000">Cards</a></li>
-                    <li><a href="/contact" class="nav-link" style="color: #cc0000">Contacts</a></li>
+                    <li><a href="/timetable" class="nav-link" style="color: #cc0000 ">Расписание</a></li>
+                    <li><a href="/cards" class="nav-link" style="color: #cc0000">Абонементы</a></li>
+                    <li><a href="/contact" class="nav-link" style="color: #cc0000">Контакты</a></li>
                 </ul>
             </div>
         </div>

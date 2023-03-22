@@ -6,9 +6,9 @@
 </h2>
 </div>
 
-<div class="row grey">
-    <div style="height:100px; max-height:300px">
-        <h4 style="color:#000000">{{hello}}</h4>
+<div class="row grey" style="padding:20px; border-radius:10px">
+    <div style="height:100px; max-height:300px ">
+        <h4 style="color:#000000" >{{hello}}</h4>
     </div>
 </div>
 

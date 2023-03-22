@@ -13,7 +13,7 @@
     <h4 style="color:#000000"><b>{{cardDay}}</b></h4>
     <p style="color:#000000">{{descriptionDay}}</p>
     <p style="color:#000000"><b>700p</b></p>
-    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="http://bottlepy.org/docs/dev/index.html">{{ btnOrd }} </a></p>
+    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="https://vk.com/jesusksu">{{ btnOrd }} </a></p>
     
     </div>
 </div>
@@ -23,7 +23,7 @@
     <h4 style="color:#000000"><b>{{cardWeek}}</b></h4>
     <p style="color:#000000">{{descrWeek}}</p>
     <p style="color:#000000"><b>2500p</b></p>
-    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="http://bottlepy.org/docs/dev/index.html">{{ btnOrd }} </a></p>
+    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="https://vk.com/jesusksu">{{ btnOrd }} </a></p>
     
     </div>
 </div>
@@ -33,7 +33,7 @@
     <h4 style="color:#000000"><b>{{cardWeekAll}}</b></h4>
     <p style="color:#000000">{{descrWeekAll}}</p>
     <p style="color:#000000"><b>2800p</b></p>
-    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="http://bottlepy.org/docs/dev/index.html">{{ btnOrd }} </a></p>
+    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="https://vk.com/jesusksu">{{ btnOrd }} </a></p>
     
     </div>
 </div>
@@ -49,7 +49,7 @@
     <h4 style="color:#000000"><b>{{card8}}</b></h4>
     <p style="color:#000000">{{descr8}}</p>
     <p style="color:#000000"><b>4200p</b></p>
-    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="http://bottlepy.org/docs/dev/index.html">{{ btnOrd }} </a></p>
+    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="https://vk.com/jesusksu">{{ btnOrd }} </a></p>
     
     </div>
 </div>
@@ -60,7 +60,7 @@
     <p style="color:#000000">{{descr12}}</p>
     <p style="color:#000000"><b>4700p</b></p>
     <p><a class="btn" style="color: #fff;background-color:#cc0000" 
-    href="http://bottlepy.org/docs/dev/index.html">{{ btnOrd }} </a></p>
+    href="https://vk.com/jesusksu">{{ btnOrd }} </a></p>
     
     </div>
 </div>
@@ -70,7 +70,7 @@
     <h4 style="color:#000000"><b>{{card16}}</b></h4>
     <p style="color:#000000">{{descr16}}</p>
     <p style="color:#000000"><b>5600p</b></p>
-    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="http://bottlepy.org/docs/dev/index.html">{{ btnOrd }} </a></p>
+    <p><a class="btn" style="color: #fff;background-color:#cc0000" href="https://vk.com/jesusksu">{{ btnOrd }} </a></p>
     
     </div>
 </div>

@@ -126,7 +126,7 @@
             <h5 class="card-title">Stretching Wake-up</h5>
             <h6 class="card-subtitle mb-2 text-muted">Вторник, 21 марта, 11:00-12:00</h6>
             <p class="card-text">1 зал. Свободно 14 мест. Настя Жданова</p>
-            <a href="#" class="card-link">Записаться</a>
+            <a href="https://yandex.ru/search/?text=%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F&clid=2411726&lr=2" class="card-link">Записаться</a>
           </div>
         </div>
     </div>
@@ -137,7 +137,7 @@
         <h5 class="card-title">Классика</h5>
         <h6 class="card-subtitle mb-2 text-muted">Среда, 22 марта. 11:00-12:30</h6>
         <p class="card-text">6 зал. Свободно 10 мест. Игорь Шалаев</p>
-        <a href="#" class="card-link">Записаться</a>
+        <a href="https://yandex.ru/search/?text=%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F&clid=2411726&lr=2" class="card-link">Записаться</a>
       </div>
     </div>
     </div>
@@ -148,7 +148,7 @@
         <h5 class="card-title">S17kids Hip-Hop 3-6 лет</h5>
         <h6 class="card-subtitle mb-2 text-muted">Суббота, 25 марта. 11:00-12:00</h6>
         <p class="card-text">2 зал. Катя Пономарёва</p>
-        <a href="#" class="card-link">Записаться</a>
+        <a href="https://yandex.ru/search/?text=%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F&clid=2411726&lr=2" class="card-link">Записаться</a>
       </div>
     </div>
     </div>
