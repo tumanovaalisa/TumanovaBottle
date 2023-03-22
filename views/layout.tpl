@@ -10,32 +10,24 @@
     </head>
 
 <body >
-    <div class="navbar navbar-default navbar-fixed-top" >
-
+    <nav class="navbar navbar-expand-md navbar-default navbar-fixed-top" >
         <div class="container">
-        
-            <div class="navbar-header" >
-            <img src="/static/images/logo_danceAK.png" alt="img" style="max-width: 45px; max-height: 45px"></img>
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                
-		        <a href="/" class="navbar-brand bold1" style="color: #cc0000">
-                 Dance studio AK </a>
-		      
-                
-            </div>
+            <a class="navbar-brand" href="/" style="color:#cc0000;font-weight:700">
+                <img src="/static/images/logo_danceAK.png" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+                Dance studio AK
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
             <div class="navbar-collapse collapse justify-content-end mr-auto">
-                <ul class="nav navbar-nav navbar-right sizeF">
-                    <li><a href="/timetable"  style="color: #cc0000 ">Timetable</a></li>
-                    <li><a href="/cards" style="color: #cc0000">Cards</a></li>
-                    <li><a href="/contact" style="color: #cc0000">Contacts</a></li>
+                <ul class="navbar-nav navbar-right">
+                    <li><a href="/timetable" class="nav-link" style="color: #cc0000 ">Timetable</a></li>
+                    <li><a href="/cards" class="nav-link" style="color: #cc0000">Cards</a></li>
+                    <li><a href="/contact" class="nav-link" style="color: #cc0000">Contacts</a></li>
                 </ul>
             </div>
         </div>
-    </div>
+    </nav>
 
     <div class="container body-content">
         {{!base}}

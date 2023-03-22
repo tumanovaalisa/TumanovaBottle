@@ -7,7 +7,7 @@
 </h2>
 </div>
 <div class="row">
-<div class="cards col-lg-3" style="height:300px; max-height:300px">
+<div class="cards col-lg-3" style="height:350px; max-height:350px">
   
   <div class="container " >
     <h4 style="color:#000000"><b>{{cardDay}}</b></h4>
@@ -17,7 +17,7 @@
     
     </div>
 </div>
-<div class="cards col-lg-3" style="height:300px; max-height:300px"  >
+<div class="cards col-lg-3" style="height:350px; max-height:350px"  >
   
   <div class="container " >
     <h4 style="color:#000000"><b>{{cardWeek}}</b></h4>
@@ -27,7 +27,7 @@
     
     </div>
 </div>
-<div class="cards col-lg-3" style="height:300px; max-height:300px">
+<div class="cards col-lg-3" style="height:350px; max-height:350px">
   
   <div class="container " >
     <h4 style="color:#000000"><b>{{cardWeekAll}}</b></h4>

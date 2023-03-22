@@ -1,6 +1,6 @@
 % rebase('layout.tpl', title='Home Page', year=year)
 
-<div class="jumbotron">
+<div class="p-5 mb-4 bg-light rounded-3">
     <img src="static\images\logo_nav.png">
     <p> </p>
     <p class="lead">Bottle is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
