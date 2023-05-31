@@ -4,7 +4,7 @@ Routes and views for the bottle application.
 
 from bottle import route, view
 from datetime import datetime
-
+import json
 @route('/')
 @view('index')
 def home():
@@ -81,3 +81,19 @@ def cards():
         card16='16 занятий',
         year=datetime.now().year
     )
+@route('/reviews')
+@view('reviews')
+def reviews():
+    reviews=[]
+    with open('files/json_reviews.json', 'r') as f:
+        reviews = json.load(f)
+    """Renders the about page."""
+    return dict(
+        title='Отзывы',
+        reviews=reviews,
+        email='',
+        name='',
+        review='',
+        year=datetime.now().year
+    )
+

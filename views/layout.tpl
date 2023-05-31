@@ -6,6 +6,7 @@
     <title>{{ title }} - My Bottle Application</title>
     <link rel="stylesheet" type="text/css" href="/static/content/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="/static/content/site.css" />
+    <link rel="stylesheet" type="text/css" href="/static/content/reviews.css" />
     <script src="/static/scripts/modernizr-2.6.2.js"></script>
     </head>
 
@@ -24,6 +25,7 @@
                     <li><a href="/timetable" class="nav-link" style="color: #cc0000 ">Расписание</a></li>
                     <li><a href="/cards" class="nav-link" style="color: #cc0000">Абонементы</a></li>
                     <li><a href="/contact" class="nav-link" style="color: #cc0000">Контакты</a></li>
+                    <li><a href="/reviews" class="nav-link" style="color: #cc0000">Отзывы</a></li>
                 </ul>
             </div>
         </div>

@@ -30,9 +30,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="logic\reviews.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="routes.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="logic\" />
+    <Folder Include="files\" />
     <Folder Include="static\" />
     <Folder Include="static\content\" />
     <Folder Include="static\fonts\" />
@@ -41,9 +46,14 @@
     <Folder Include="views\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index.patch" />
+    <Content Include="files\json_reviews.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="static\content\bootstrap.min.css" />
+    <Content Include="static\content\reviews.css">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="static\content\site.css" />
     <Content Include="static\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
@@ -68,6 +78,9 @@
     <Content Include="static\scripts\respond.js" />
     <Content Include="static\scripts\respond.min.js" />
     <Content Include="static\scripts\_references.js" />
+    <Content Include="views\reviews.tpl">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="views\timetable.tpl" />
     <Content Include="views\cards.tpl" />
     <Content Include="views\contact.tpl" />
