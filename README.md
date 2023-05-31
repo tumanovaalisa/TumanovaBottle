@@ -1,4 +1,5 @@
-# TumanovaBottle
+# DanceStudio AK
+# Проект сайта танцевальной студии
 ### Стек используемых технологий:
 1. [Bottle](https://bottlepy.org/docs/dev/)
 2. [Python](https://www.python.org/)
