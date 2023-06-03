@@ -93,6 +93,7 @@ def reviews():
         reviews=reviews,
         email='',
         name='',
+        message='',
         review='',
         year=datetime.now().year
     )
